@@ -1,1 +1,1 @@
-# History-of-th-Internet
+# History-of-the-Internet
