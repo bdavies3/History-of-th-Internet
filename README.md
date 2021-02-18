@@ -2,4 +2,4 @@
 
 https://bdavies3.github.io/History-of-the-Internet/
 
-![images/pexels-markus-spiske-1089438.jpg]
+![Pexels pic](images/pexels-markus-spiske-1089438.jpg)
